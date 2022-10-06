@@ -20,8 +20,7 @@ def build_schema():
                     'type': 'object',
                     'properties': {
                         'description': {'type': 'string'},
-                        'code': {'type': 'string'},
-                        'image': {'type': 'object'}
+                        'code': {'type': 'string'}
                     },
                     'required': ['code'],
                     'additionalProperties': True
@@ -39,6 +38,7 @@ def build_schema():
                 },
                 'additionalProperties': True
             },
+            'image': {'type': 'string'},
             'images': {
                 'type': 'object',
                 "patternProperties": {
