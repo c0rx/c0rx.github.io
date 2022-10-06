@@ -11,3 +11,4 @@ functions:
   bitb:
     - description:
 ---
+{% include bin_table.html %}
