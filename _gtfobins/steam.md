@@ -11,4 +11,3 @@ functions:
   bitb:
     - description:
 ---
-![alt text](https://i.playground.ru/p/H-pwfbU8FF74CRcuE5nN-A.jpeg)
