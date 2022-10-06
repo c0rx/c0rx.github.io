@@ -6,5 +6,5 @@ functions:
     - description:
   qr:
     - description:
+image:
 ---
-![logo](/assets/steam.png){:.logo}
