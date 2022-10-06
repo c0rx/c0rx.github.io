@@ -1,6 +1,6 @@
 ---
 description: | 
-  . Alternatively, they could choose an attractive address and content that may lure
+  They could choose an attractive address and content that may lure
   victims — such as shopping deals, job opportunities, or news a user might want to comment on. The criminals set things
   up so that visitors need to sign in if they want to buy something, comment, or access other features that interest
   them. Then the malefactors add buttons that supposedly permit logging in through the legitimate services they want
@@ -12,6 +12,8 @@ description: |
   credentials in this window, they won’t go to Microsoft, Google, or Apple, but rather straight
   to the cybercriminal’s server.
 functions:
+  bitb:
+    - description:
   banking:
     - description: 
   date:
