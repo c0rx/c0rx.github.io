@@ -11,6 +11,7 @@ def parse_yaml(path):
 
 def build_schema():
     function_names = next(parse_yaml('_data/functions.yml')).keys()
+    images_names = next(parse_yaml('_data/images.yml')).keys()
     return {
         "definitions": {
             'examples': {
@@ -20,7 +21,7 @@ def build_schema():
                     'properties': {
                         'description': {'type': 'string'},
                         'code': {'type': 'string'},
-                        'image': {'type': 'string'}
+                        'image': {'type': 'object'}
                     },
                     'required': ['code'],
                     'additionalProperties': True
