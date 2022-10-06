@@ -5,6 +5,42 @@ shell:
   label: Shell
   description: It can be used to break out from restricted environments by spawning an interactive system shell.
 
+phishing:
+  label: Phishing
+  description: Phishing is when attackers send malicious emails designed to trick people into falling for a scam.
+# 1
+aff:
+  label: Advanced fee fraud
+  description: A scammer requests fees upfront or personal information in return for goods, services, money or rewards that they never supply.
+# 2
+lottery:
+  label: Lottery sweepstakes and comptetion scams
+  description: These scams try to trick you into giving money upfront or your personal details in order to receive the prize.
+# 3
+date:
+  label: Online dating
+  description: Scammers create fake profiles on legitimate dating websites and try to enter into a relationship with you so they can get a hold of your money and personal details
+# 4
+banking:
+  label: Banking credit and online account
+  description: Scammers send emails, text messages or make a call that appear to be from your bank, a financial institution or an online payment service
+# 5
+shops:
+  label: Online shopping
+  description: Phishing websites look like legitimate sites that are designed to trick you into giving personal and financial information
+# 6
+job:
+  label: Job and employment
+  description: These scams involve offers to work from home or set up and invest in a business opportunity, promising a job, high salary or large investment return following initial upfront payments.
+# 7
+gamble:
+  label: Golden opportunity and gambling
+  description: Scams often begin with an unexpected phone call or email from a scammer offering a not-to-be-missed high return or guaranteed investment in shares, real estate, options or foreign currency trading.
+# 8
+charity:
+  label: Charity
+  description: Involve scammers collecting money by pretending to work for a legitimate cause or charity, or a fictitious one they have created.
+
 command:
   label: Command
   description: It can be used to break out from restricted environments by running non-interactive system commands.
