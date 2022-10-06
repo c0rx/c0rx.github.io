@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GTFOBins
+title: SCAM|MPACT
 ---
 
 ![logo](/assets/logo.png){:.logo}

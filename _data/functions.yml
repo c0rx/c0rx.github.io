@@ -59,6 +59,6 @@ impersonation:
   description: Digital impersonation is a form of identity theft for committing fraud or cheating of another person's identity in which someone pretends to be someone else by assuming that person's identity, typically in order to access resources or obtain credit and other benefits in that person's name and fame.
 # 14
 qr:
-  description: "QR code scams take advantage of the fact that the human eye can’t 'read' a QR code — so we need to trust that the code is taking us to the right URL or doing what it’s supposed to do[.] But because QR codes are so easy to create, scammers can replace legitimate ones with their own fraudulent codes[.] These \"fake\" QR codes redirect you to malicious websites designed to steal your sensitive information[.] Unbeknownst to you, you could be offering your information to  a fake payment terminal or a convincing look-alike login screen."
   label: "QR code scam"
+  description: "QR code scams take advantage of the fact that the human eye can’t 'read' a QR code — so we need to trust that the code is taking us to the right URL or doing what it’s supposed to do."
 ---
