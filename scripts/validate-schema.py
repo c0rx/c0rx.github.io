@@ -11,7 +11,6 @@ def parse_yaml(path):
 
 def build_schema():
     function_names = next(parse_yaml('_data/functions.yml')).keys()
-    images_names = next(parse_yaml('_data/images.yml')).keys()
     return {
         "definitions": {
             'examples': {
@@ -35,14 +34,6 @@ def build_schema():
                 'type': 'object',
                 "patternProperties": {
                     '^({})$'.format('|'.join(function_names)): {'$ref': '#/definitions/examples'}
-                },
-                'additionalProperties': True
-            },
-            'image': {'type': 'string'},
-            'images': {
-                'type': 'object',
-                "patternProperties": {
-                    '^({})$'.format('|'.join(images_names)): {'$ref': '#/definitions/examples'}
                 },
                 'additionalProperties': True
             },

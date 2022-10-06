@@ -4,8 +4,4 @@ functions:
     - description:
   qr:
     - description:
-images:
-  xyu:
-    - description:
-
 ---
