@@ -14,6 +14,7 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
 
 @media #{$layout-break} {
     body {
+        color: white;
         width: $column-width;
         margin: 40px auto;
     }
