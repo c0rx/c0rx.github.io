@@ -1,8 +1,6 @@
 ---
 description: | 
-  A BitB attack is a novel phishing technique that replicates pop-up windows used for SSO in an effort to steal login
-  credentials. It works like this: The cybercriminals register a website using the classic phishing technique of making
-  a clone of a legitimate website. Alternatively, they could choose an attractive address and content that may lure
+  . Alternatively, they could choose an attractive address and content that may lure
   victims — such as shopping deals, job opportunities, or news a user might want to comment on. The criminals set things
   up so that visitors need to sign in if they want to buy something, comment, or access other features that interest
   them. Then the malefactors add buttons that supposedly permit logging in through the legitimate services they want

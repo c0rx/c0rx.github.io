@@ -4,7 +4,7 @@
 shell:
   label: Shell
   description: It can be used to break out from restricted environments by spawning an interactive system shell.
-
+# 0
 phishing:
   label: Phishing
   description: Phishing is when attackers send malicious emails designed to trick people into falling for a scam.
@@ -40,6 +40,12 @@ gamble:
 charity:
   label: Charity
   description: Involve scammers collecting money by pretending to work for a legitimate cause or charity, or a fictitious one they have created.
+# 9
+bitb:
+  label: Browser-in-the-Browser
+  description: |
+  A BitB attack is a novel phishing technique that replicates pop-up windows used for SSO in an effort to steal login credentials. It works like this: The cybercriminals register a website using the classic phishing technique of making a clone of a legitimate website
+# 10
 
 command:
   label: Command
