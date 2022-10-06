@@ -1,13 +1,15 @@
 ---
-description: | 
-  As in all examples, you will most likely be emailed under the pretext of collaborating or joining a new project, and then you are asked to verify your identity through a verification bot. Keep in mind that this may look like a verified bot, such as Wick. But it's not. Always verify your real Discord account name, not the server name. It will ask you to scan a QR code to verify your identity
+description: !!binary |
+ iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==
 functions:
   se:
-    - description:
+    - description: !!binary | 
+       iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==
   qr:
     - description:
 images:
   xyu:
-    - image:
+    - description: !!binary |
+       iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==
 
 ---
