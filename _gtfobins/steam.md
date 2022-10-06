@@ -1,4 +1,5 @@
 ---
+description: [techniques](../techniques.md/)
 description: | 
   Steam users have been targeted by hackers using Browser-in-the-Browser (BiTB) phishing attacks to steal their credentials. 
 
@@ -11,4 +12,3 @@ functions:
   bitb:
     - description:
 ---
-[techniques](../techniques.md/)
