@@ -22,17 +22,6 @@ layout: common
 <ul class="examples">
     {% for example in examples %}
 
-{% capture code %}
-{%- if function_id == 'suid' or function_id == 'limited-suid' %}
-sudo install -m =xs $(which {{ bin_name }}) .
-{% endif %}
-{%- if function_id == 'capabilities' %}
-cp $(which {{ bin_name }}) .
-sudo setcap cap_setuid+ep {{ bin_name }}
-{% endif %}
-{{ example.code | escape }}
-{% endcapture %}
-
     <li>
         {{ example.description | markdownify }}
     </li>
