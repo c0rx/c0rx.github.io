@@ -7,3 +7,4 @@ functions:
   qr:
     - description:
 ---
+![logo](/assets/steam.png){:.logo}

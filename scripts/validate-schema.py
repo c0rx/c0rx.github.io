@@ -22,7 +22,7 @@ def build_schema():
                         'code': {'type': 'string'}
                     },
                     'required': ['code'],
-                    'additionalProperties': False
+                    'additionalProperties': True
                 },
                 'minimum': 1
             }
@@ -35,11 +35,11 @@ def build_schema():
                 "patternProperties": {
                     '^({})$'.format('|'.join(function_names)): {'$ref': '#/definitions/examples'}
                 },
-                'additionalProperties': False
+                'additionalProperties': True
             }
         },
         'required': ['functions'],
-        'additionalProperties': False
+        'additionalProperties': True
     }
 
 def validate_directory(root):
