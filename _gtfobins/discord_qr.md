@@ -4,6 +4,7 @@ description: |
 functions:
   se:
     - description:
+---
+![logo](/assets/logo.png){:.logo}
   qr:
     - description:
----
