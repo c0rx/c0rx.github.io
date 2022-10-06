@@ -45,3 +45,11 @@ bitb:
 se:
   label: Social Engineering
   description: Term used for a broad range of malicious activities accomplished through human interactions
+# 11
+ffe:
+  label: Fake file extension
+  description: Hackers can fake file extensions by abusing a special Unicode character, forcing text to be displayed in reverse order.
+# 12
+seo:
+  label: Tricking SEO
+  description: Scamming SEO in order to make own phishing website placed in first positions of search results

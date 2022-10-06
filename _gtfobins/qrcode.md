@@ -14,7 +14,7 @@ description: |
 functions:
   se:
     - description:
-  banking:
+  aff:
     - description: 
   date:
     - description:
