@@ -15,5 +15,7 @@ description: |
   to the cybercriminal’s server.
 functions:
   banking:
+    - description: 
   date:
+    - description:
 ---
