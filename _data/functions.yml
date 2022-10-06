@@ -61,4 +61,5 @@ impersonation:
 qr:
   label: "QR code scam"
   description: "QR code scams take advantage of the fact that the human eye can’t 'read' a QR code — so we need to trust that the code is taking us to the right URL or doing what it’s supposed to do."
+
 ---
