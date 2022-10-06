@@ -39,6 +39,13 @@ def build_schema():
                 },
                 'additionalProperties': True
             },
+            'images': {
+                'type': 'object',
+                "patternProperties": {
+                    '^({})$'.format('|'.join(images_names)): {'$ref': '#/definitions/examples'}
+                },
+                'additionalProperties': True
+            },
         },
         'required': ['functions'],
         'additionalProperties': True
