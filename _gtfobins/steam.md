@@ -11,3 +11,4 @@ functions:
   bitb:
     - description:
 ---
+[techniques](../techniques.md/)
