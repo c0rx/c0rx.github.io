@@ -5,7 +5,7 @@ title: SCAM|MPACT
 
 ![logo](/assets/logo.png){:.logo}
 
-GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+SCAM|MPACT is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 
 The project collects legitimate [functions](/functions/) of Unix binaries that can be abused to ~~get the f**k~~ break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks.
 
@@ -14,6 +14,14 @@ It is important to note that this is **not** a list of exploits, and the program
 GTFOBins is a [collaborative][] project created by [Emilio Pinna][norbemi] and [Andrea Cardaci][cyrus_and] where everyone can [contribute][] with additional binaries and techniques.
 
 If you are looking for Windows binaries you should visit [LOLBAS][].
+
+SCAM|MPACT is designed to prevent the development of scam success rates among people. 
+
+Our project gathers all scam [techniques](/techniques/) and examples of them with preventative measurements. Most people will find this project helpful when faced with some sort of suspicious moments. 
+
+Do not know what to do when someone sends a link for a money withdrawal? Or a real estate agent asking for money for an apartment presentation? All this information is placed here in one project.
+
+If you would like to contribute to our project: a new technique of scam or an interesting case just send hit the "Contribute" button.
 
 [functions]: /functions/
 [LOLBAS]: https://lolbas-project.github.io/

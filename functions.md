@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Functions
+title: Techniques
 ---
 
 A binary may support one or more of the following functions:
