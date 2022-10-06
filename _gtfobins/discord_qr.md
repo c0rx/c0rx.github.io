@@ -5,7 +5,7 @@ functions:
   se:
     - description:
 ---
-![logo](/assets/logo.png){:.logo}
+![logo](../assets/logo.png){:.logo}
 
 ---
   qr:
