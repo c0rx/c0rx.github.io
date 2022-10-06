@@ -20,7 +20,7 @@ def build_schema():
                     'properties': {
                         'description': {'type': 'string'},
                         'code': {'type': 'string'},
-                        'image': "![logo](/assets/logo.png){:.logo}"
+                        'image': {'type': 'string'}
                     },
                     'required': ['code'],
                     'additionalProperties': True
