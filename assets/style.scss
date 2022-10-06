@@ -1,7 +1,7 @@
 ---
 ---
 
-$accent: black;
+$accent: white;
 $lighter: #36578c;
 $marked: #757dda;
 $hover: #ffcb00;
@@ -114,7 +114,7 @@ h2, h3, h4, h5, h5 {
                 margin-right: 10%;
                 padding: 1em;
                 border-radius: 1em;
-                color: $lighter;
+                color: white;
                 background: rgba(0, 0, 0, 0.75);
                 z-index: 1;
                 pointer-events: none;
