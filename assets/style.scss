@@ -1,8 +1,8 @@
 ---
 ---
 
-$accent: white;
-$lighter: #0A1931;
+$accent: black;
+$lighter: #36578c;
 $marked: #757dda;
 $hover: #ffcb00;
 
@@ -33,6 +33,7 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
 
 body {
     font-family: sans, sans-serif;
+    background: #36578c;
 }
 
 code {
@@ -134,7 +135,8 @@ h2, h3, h4, h5, h5 {
 
 #bin-table {
     width: 100%;
-
+    background: #396b95;
+    border-radius: 1vh;
     th, td {
         padding: 0.2em 1em;
     }
