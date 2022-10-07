@@ -1,8 +1,4 @@
-# GTFOBins [![Build Status][]][travis]
+# SCAM|MPACT
 
-[Build Status]: https://travis-ci.com/GTFOBins/GTFOBins.github.io.svg?branch=master
-[travis]: https://travis-ci.com/GTFOBins/GTFOBins.github.io
+SCAM|MPACT is designed to prevent the development of scam success rates among people.   
 
-GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
-
-Find the project at https://gtfobins.github.io

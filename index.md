@@ -13,11 +13,5 @@ Do not know what to do when someone sends a link for a money withdrawal? Or a re
 
 If you would like to contribute to our project: a new technique of scam or an interesting case just send hit the "Contribute" button.
 
-[functions]: /functions/
-[LOLBAS]: https://lolbas-project.github.io/
-[collaborative]: https://github.com/GTFOBins/GTFOBins.github.io/graphs/contributors
-[contribute]: /contribute/
-[norbemi]: https://twitter.com/norbemi
-[cyrus_and]: https://twitter.com/cyrus_and
 
 {% include bin_table.html %}

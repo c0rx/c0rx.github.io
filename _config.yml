@@ -1,16 +1,16 @@
 ---
-title: GTFOBins
+title: SCAM|MPACT
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
 
 permalink: pretty
 
 collections:
-  gtfobins:
+  r4ccoon:
     output: true
 
 defaults:
   - scope:
-      path: '_gtfobins'
+      path: '_r4ccoon'
     values:
       layout: bin
